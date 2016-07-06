@@ -1,5 +1,3 @@
-### Description
-
 [Kaggle](www.kaggle.com) competition to predict dog outcomes for the Austin Animal Center.
 
 ### Data Files
@@ -16,8 +14,14 @@ In this competition, you are going to predict the outcome of the animal as they 
 
 The train and test data are randomly split. 
 
-File descriptions
+### File descriptions
 
-train.csv - the training set
-test.csv - the test set
-sample_submission.csv - a sample submission file in the correct format
+- **train.csv** - the training set
+- **test.csv** - the test set
+- **sample_submission.csv** - a sample submission file in the correct format
+
+### Setup
+
+- To set up your dev env, [follow these instructions](https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html#anaconda-installation).
+- If you have issues installing tensorflow via conda, [follow these instructions](http://vinhdq.blogspot.com/2015/12/installing-tensorflow-on-mac-os-1011.html).
+- [Run a quick test](https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html#test-the-tensorflow-installation) to make sure tensorflow has been properly installed.
